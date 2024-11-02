@@ -1,2 +1,4 @@
-package co.com.screenplay.project;public class Main {
+package co.com.screenplay.project;
+
+public class Main {
 }
